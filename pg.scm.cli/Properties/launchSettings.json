@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "pg.scm.cli": {
+      "commandName": "Project",
+      "commandLineArgs": "dump"
+    }
+  }
+}
